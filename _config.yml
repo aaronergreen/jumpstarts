@@ -38,10 +38,10 @@ sass:
 production: false
 
 # http://jch.penibelst.de/
-compress_html:
-  ignore:
-    envs: [development]
-  profile: false
+# compress_html:
+#   ignore:
+#     envs: [development]
+#   profile: false
 
 
 # CONTENT
@@ -62,9 +62,9 @@ exclude:
 
 # http://jekyllrb.com/docs/collections/
 collections:
-  # example:
-  #   output: true
-  #   permalink: '/:collection/:path/'
+  about:
+    output: true
+    permalink: '/:collection/:path/'
 
 # http://jekyllrb.com/docs/configuration/#front-matter-defaults
 defaults:
@@ -82,6 +82,12 @@ defaults:
   - scope:
       path: ''
       type: posts
+    values:
+      layout: page
+      schema: BlogPosting
+  - scope:
+      path: ''
+      type: about
     values:
       layout: page
       schema: BlogPosting
