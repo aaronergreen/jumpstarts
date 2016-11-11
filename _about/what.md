@@ -7,7 +7,7 @@ section:
   section_copy: "**JumpStarts bring together**:  \n\n- Founders of 1 Featured Social
     Startup (non-profit, for-profit, benefit corp., hybrid)    \n- 7 Expert Panelists
     \   \n- 1 Goldilox Problem    \n"
-- section_title: Golidlox Probem
+- section_title: Golidlox Problem
   section_copy: "**Golidlox Problem** = a focused Business/Change Model problem, neither
     too broad nor too narrow for a three-hour collaborative discussion.\n\n**GP Question
     Frames**:\n\n- A Challenge to Overcome or An Opportunity to Seize: How do we solve
