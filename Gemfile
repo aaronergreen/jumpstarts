@@ -4,6 +4,7 @@ source 'https://rubygems.org'
  # https://pages.github.com/versions/
 group :jekyll_plugins do
   gem 'jekyll-admin'
+  gem 'jekyll-livereload'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
 end

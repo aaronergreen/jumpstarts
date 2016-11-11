@@ -4,7 +4,7 @@ layout: default
 {% include global/hero.html %}
 <div id="content" class="cf pa3 pa4-m pa5-l mw9 dark-gray">
 
-  <div class="center f3 pb3">
+  <div class="center f3 pb3 tc">
     {{ page.content | markdownify }}
   </div>
 
@@ -16,14 +16,14 @@ layout: default
         <h1 class="f2">
           {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
         </h1>
-        <div class="f4 center measure">
+        <div class="f4 center measure link">
           {{ object.content | markdownify }}
         </div>
       </div>
       <div class="flex-ns">
         {% for object in object.section %}
           <div class="fl w-100 pa3 w-50-ns bg-near-white tcTK">
-            <h2>
+            <h2 class="fw8">
               {{ object.section_title | markdownify | remove: '<p>' | remove: '</p>' }}
             </h2>
             <div class="f5">

@@ -1,13 +1,13 @@
 ---
 title: Participate
 date: '2016-11-11 14:39:27'
-order: 3
+order: 05
 section:
 - section_title: Founders
   section_copy: "What's Stopping You?   \nFeatured Startups must apply: because we
     ask great questions that will make you objectively assess your venture, the application
     process itself is a highly valuable experience for founders.\n"
-- section_title: "**5 Preliminary Questions**"
+- section_title: "5 Preliminary Questions"
   section_copy: "We start by asking you the following to see if we''re on the same
     page.  \nIf so, we schedule a face-to-face where we explain the complete process
     in full detail. Click below to get the process started.\n\n(1a) What is The Problem?
