@@ -1,7 +1,7 @@
 ---
 title: Participate
 date: '2016-11-11 14:39:27'
-order: '05'
+order: 5
 section:
 - section_title: Founders
   section_copy: "What's Stopping You?   \nFeatured Startups must apply: because we

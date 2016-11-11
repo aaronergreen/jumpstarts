@@ -3,7 +3,7 @@ title: Process
 date: '2016-11-11 19:41:25'
 order: 3
 section:
-- section_title: 
+- section_title: ''
   section_copy: "![Process](/uploads/JS-100hrs-Of-Value-VERTICAL.jpg)"
 - section_title: ''
   section_copy: "**37hrs of Pre-Event Prep**\nKey to the effectiveness of the JumpStart

@@ -1,6 +1,6 @@
 ---
 title: What
-order: '01'
+order: 1
 section:
 - section_title: Jumpstart Sessions
   section_copy: "**JumpStarts bring together**:  \nFounders of 1 Featured Social

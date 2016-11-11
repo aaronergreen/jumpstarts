@@ -1,6 +1,6 @@
 ---
 title: Alumni
-order: '04'
+order: 4
 ---
 
 [Transfernation](http://transfernation.org/)
