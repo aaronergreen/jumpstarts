@@ -13,12 +13,14 @@ layout: compress
     {% endif %}
     <meta name="generator" content="Jekyll v{{ jekyll.version }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include global/icons.html %}
     <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
     {% if jekyll.environment == "production" %}
       {% seo %}
       {% include global/analytics.html %}
     {% endif %}
+
   </head>
   <body class="w-100 sans-serif bg-white{% if page.class %} {{ page.class }} {% endif %} {{ page.layout }} {{ jekyll.environment }}">
     {% include global/navigation-top.html %}
