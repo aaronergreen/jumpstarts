@@ -1,9 +1,9 @@
 ---
 title: Process
 date: '2016-11-11 19:41:25'
-order: '03'
+order: 3
 section:
-- section_title:
+- section_title: 
   section_copy: "![Process](/uploads/JS-100hrs-Of-Value-VERTICAL.jpg)"
 - section_title: ''
   section_copy: "**37hrs of Pre-Event Prep**\nKey to the effectiveness of the JumpStart
@@ -19,6 +19,6 @@ section:
     order to report on Solutions Outcomes + Lessons Learned. The Featured Startup
     receives an additional 10hrs of prep support prior to the Outcomes Reporting Event.\n\n**Case
     Study**\nThe entire six-month arc is captured and published in a Case Study that
-    describes:\n- What Worked?\n- What Didn't?\n- What Was Learned?\n- Recommendations
+    describes:\n\n- What Worked?\n- What Didn't?\n- What Was Learned?\n- Recommendations
     for Future Applications. "
 ---
