@@ -13,7 +13,7 @@ section:
     is The Problem?**  (in 1 sentence only)\n\n**(1b) What is Your Solution?**  (in
     1 sentence only)\n\n**(2) Who is your Early Adopter — and how many of them are
     paying you now?**\n\n**(3) How fast are you currently growing — measured how?**\n\n**(4)
-    How does your venture reconcile Purpose and Profit? **\n\n**(5) What’s keeping
+    How does your venture reconcile Purpose and Profit?**\n\n**(5) What’s keeping
     you up at night — what’s stopping you?**\n\n[Get the Ball Rolling](mailto:info@socialrocketfactory.com)  \nWe'll be in touch within 24hrs.\n\n"
 - section_title: Expert Panelists
   section_copy: "Every JumpStart brings together a panel of 7 Experts.  \nBecause
