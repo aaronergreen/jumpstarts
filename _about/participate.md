@@ -33,3 +33,4 @@ section:
     Systems Designers, IT/IS).  \nSales (Sales Operations, Customer Service, Customer
     Experience).  \nHR (Talent Acquisition/Development, Start-Up Staff Scaling/Structure)."
 ---
+Qualified Founders + Experts are invited to apply. We have a rapidly growing waiting list of both Featured Startups and Expert Panelists — so please don't delay :)

@@ -4,7 +4,12 @@
   "description": "[Presentation on Google Docs](https://docs.google.com/presentation/d/1XRW5y-Rarne05XJZzksuklwe5FicQVVYrHVduQ015hU/edit?usp=sharing)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "bundle exec jekyll build -w",
+    "watch": "onchange '_site/**/*.*' -- run-s build reload",
+    "serve": "browser-sync start --server '_site'",
+    "reload": "browser-sync reload",
+    "start": "npm-run-all --parallel build serve watch"
   },
   "repository": {
     "type": "git",
@@ -20,6 +25,8 @@
     "browser-sync": "^2.17.5",
     "gulp": "^3.9.1",
     "gulp-shell": "^0.5.2",
-    "lodash": "^4.16.6"
+    "lodash": "^4.16.6",
+    "npm-run-all": "^3.1.1",
+    "onchange": "^3.0.2"
   }
 }

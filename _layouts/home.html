@@ -5,3 +5,9 @@ layout: default
 <div id="content" class="center measure-wide f4 pv5 lh-copy ph2">
   {{ page.content | markdownify }}
 </div>
+
+{% assign data = site.about | sort: 'order' %}
+{% for object in data  %}
+  <h1>{{ object.title }}</h1>
+  {{ object.content | markdownify }}
+{% endfor %}

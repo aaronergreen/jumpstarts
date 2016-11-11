@@ -60,6 +60,8 @@ exclude:
   - gulpfile.js
 
 
+port: 3000
+
 # http://jekyllrb.com/docs/collections/
 collections:
   about:
