@@ -3,4 +3,4 @@ title: Contact
 order: 6
 ---
 
-[Email](info@socialrocketfactory.com)
+[Email](mailto:info@socialrocketfactory.com)

@@ -39,7 +39,7 @@ sass:
 
 # use this to manually trigger noindex, nofollow in development
 # gh-pages always adds the "production" environment variable
-production: false
+production: true
 
 # http://jch.penibelst.de/
 # compress_html:
@@ -49,8 +49,8 @@ production: false
 
 
 # CONTENT
-include:
-  - _pages
+# include:
+#   - _pages
 
 exclude:
   - readme.md
