@@ -8,3 +8,12 @@
 
 
 .clip:focus { clip: auto; }
+
+p a{
+  text-decoration: none;
+  border-bottom: 1px dashed #ccc;
+  color: black;
+}
+p a:hover {
+  color: red;
+}

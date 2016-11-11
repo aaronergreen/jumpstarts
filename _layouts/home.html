@@ -11,22 +11,24 @@ layout: default
 
   {% assign data = site.about | sort: 'order' %}
   {% for object in data  %}
-    <div class="cf" style="border-bottom:4px solid #333">
+    <div id="{{ object.slug }}" class="pt5 cf mt5 bg-near-whiteTK">
       <div class="tc pb5">
-        <h1 class="f2">
+        <h1 class="f2 fw9 mb0">
           {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
         </h1>
-        <div class="f4 center measure link">
-          {{ object.content | markdownify }}
-        </div>
+        {% if object.content %}
+          <div class="f4 center measure link">
+            {{ object.content | markdownify }}
+          </div>
+        {% endif %}
       </div>
       <div class="flex-ns">
         {% for object in object.section %}
-          <div class="fl w-100 pa3 w-50-ns bg-near-white tcTK">
+          <div class="fl w-100 pa3 w-50-ns tcTK">
             <h2 class="fw8">
               {{ object.section_title | markdownify | remove: '<p>' | remove: '</p>' }}
             </h2>
-            <div class="f5">
+            <div class="f5 pr4">
               {{ object.section_copy | markdownify }}
             </div>
           </div>

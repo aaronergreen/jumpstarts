@@ -2,20 +2,22 @@
 # These basic values are used with the Jekyll SEO tag https://github.com/jekyll/jekyll-seo-tag#usage
 # but you can also use them anywhere in your site, like this: {{ site.title }} or {{ site.twitter.username }}
 title: "Jumpstarts"
-description: "A starter for using jekyll"
+description: "Make your social venture:  Sustainable. Scalable. Investible."
 url: "https://budparr.github.io/jekyll-starter/" # the base hostname & protocol for your site
 author: []
 twitter:
-  username: budparr
+  username:
 facebook:
   app_id:
   publisher:
   admins:
-logo: /assets/images/jekyll-white.svg
+  link: 
+logo: /uploads/jumpstartslogo.jpg
 google_site_verification:
 github:
   username: budparr
 owner: The New Dynamic
+email: info@socialrocketfactory.com
 
 ## jekyll
 #baseurl: '/jekyll-starter'
