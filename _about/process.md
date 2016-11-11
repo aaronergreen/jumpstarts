@@ -4,7 +4,7 @@ date: '2016-11-11 19:41:25'
 order: 3
 section:
 - section_title:
-  section_copy: "![Process](https://sonnetmedia.github.io/jumpstarts/uploads/JS-100hrs-Of-Value-VERTICAL.jpg)"
+  section_copy: "![Process](/uploads/JS-100hrs-Of-Value-VERTICAL.jpg)"
 - section_title: ''
   section_copy: "**37hrs of Pre-Event Prep**\n\nKey to the effectiveness of the JumpStart
     experience is the 37hrs of Prep Time that take place before the actual JumpStart.

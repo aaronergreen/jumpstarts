@@ -3,7 +3,7 @@
 # but you can also use them anywhere in your site, like this: {{ site.title }} or {{ site.twitter.username }}
 title: "Jumpstarts"
 description: "Make your social venture:  Sustainable. Scalable. Investible."
-url: "https://sonnetmedia.github.io/jumpstarts" # the base hostname & protocol for your site
+url: "https://jumpstarts.netlify.com" # the base hostname & protocol for your site
 author: []
 twitter:
   username:
