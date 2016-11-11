@@ -2,12 +2,36 @@
 layout: default
 ---
 {% include global/hero.html %}
-<div id="content" class="center measure-wide f4 pv5 lh-copy ph2">
-  {{ page.content | markdownify }}
-</div>
+<div id="content" class="cf pa3 pa4-m pa5-l mw9 dark-gray">
 
-{% assign data = site.about | sort: 'order' %}
-{% for object in data  %}
-  <h1>{{ object.title }}</h1>
-  {{ object.content | markdownify }}
-{% endfor %}
+  <div class="center f3 pb3">
+    {{ page.content | markdownify }}
+  </div>
+
+
+  {% assign data = site.about | sort: 'order' %}
+  {% for object in data  %}
+    <div class="cf" style="border-bottom:4px solid #333">
+      <div class="tc pb5">
+        <h1 class="f2">
+          {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
+        </h1>
+        <div class="f4 center measure">
+          {{ object.content | markdownify }}
+        </div>
+      </div>
+      <div class="flex-ns">
+        {% for object in object.section %}
+          <div class="fl w-100 pa3 w-50-ns bg-near-white tcTK">
+            <h2>
+              {{ object.section_title | markdownify | remove: '<p>' | remove: '</p>' }}
+            </h2>
+            <div class="f5">
+              {{ object.section_copy | markdownify }}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

@@ -3,10 +3,6 @@ title: Home
 layout: home
 permalink: /
 ---
-# JUMPSTARTS
+# JUMPSTARTS Make your social venture:
 
-Make your social venture:
-
-- Sustainable.
-- Scalable.
-- Investible.
+Sustainable. Scalable. Investible.
