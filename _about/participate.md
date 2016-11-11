@@ -1,13 +1,30 @@
 ---
 title: Participate
 date: '2016-11-11 14:39:27'
-order: 5
+order: 3
 section:
 - section_title: Founders
-  section_copy: "What's Stopping You?   \nFeatured Startups must apply: because we
-    ask great questions that will make you objectively assess your venture, the application
-    process itself is a highly valuable experience for founders.\n"
-- section_title: "5 Preliminary Questions"
+  section_copy: |
+    **What's Stopping You?**
+
+    **Featured Startups must apply: because we ask great questions that will make you objectively assess your venture, the application process itself is  a highly valuable experience for founders.**
+
+    **5 Preliminary Questions:**
+    We start by asking you the following to see if we''re on the same page.
+    If so, we schedule a face-to-face where we explain the complete process in full detail. Click below to get the process started.
+
+    **(1a) What is The Problem?**  (in 1 sentence only)
+
+    **(1b) What is Your Solution?**  (in 1 sentence only)
+
+    **(2) Who is your Early Adopter — and how many of them are paying you now?**
+
+    **(3) How fast are you currently growing — measured how?**
+
+    **(4) How does your venture reconcile Purpose and Profit? **
+
+    **(5) What’s keeping you up at night — what’s stopping you?**
+- section_title: "**5 Preliminary Questions**"
   section_copy: "We start by asking you the following to see if we''re on the same
     page.  \nIf so, we schedule a face-to-face where we explain the complete process
     in full detail. Click below to get the process started.\n\n(1a) What is The Problem?
@@ -33,4 +50,6 @@ section:
     Systems Designers, IT/IS).  \nSales (Sales Operations, Customer Service, Customer
     Experience).  \nHR (Talent Acquisition/Development, Start-Up Staff Scaling/Structure)."
 ---
-Qualified Founders + Experts are invited to apply. We have a rapidly growing waiting list of both Featured Startups and Expert Panelists — so please don't delay :)
+Qualified Founders + Experts are invited to apply.
+
+We have a rapidly growing waiting list of both Featured Startups and Expert Panelists — so please don't delay :)
