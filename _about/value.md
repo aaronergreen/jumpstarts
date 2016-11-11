@@ -1,6 +1,6 @@
 ---
 title: Value
-order: 02
+order: '02'
 section:
 - section_title: Value for Founders
   section_copy: 'JumpStarts help the founders of promising Social Startups diagnose
