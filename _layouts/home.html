@@ -17,7 +17,7 @@ layout: default
           {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
         </h1>
         {% if object.content %}
-          <div class="f4 center tl measure link">
+          <div class="f4 center measure link">
             {{ object.content | markdownify }}
           </div>
         {% endif %}
