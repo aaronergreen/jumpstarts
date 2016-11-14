@@ -6,7 +6,7 @@ section:
 - section_title: 
   section_copy: "![Process](/uploads/JS-100hrs-Of-Value-VERTICAL.jpg)"
 - section_title: ''
-  section_copy: "**Six-M of Pre-Event Prep**\n\nKey to the effectiveness of the JumpStart
+  section_copy: "**37-hrs of Pre-Event Prep**\n\nKey to the effectiveness of the JumpStart
     experience is the 37hrs of Prep Time that take place before the actual JumpStart.
     Across seven two-hour sessions (plus between-session homework), the Featured Startup’s
     Business/Change Model is systematically dissected, analyzed, and diagnosed. This
