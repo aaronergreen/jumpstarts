@@ -1,16 +1,16 @@
 ---
 title: Process
-date: '2016-11-11 19:41:25'
+date: '2016-11-11 00:00:00'
 order: 3
 section:
-- section_title:
+- section_title: 
   section_copy: "![Process](/uploads/JS-100hrs-Of-Value-VERTICAL.jpg)"
 - section_title: ''
-  section_copy: "**37hrs of Pre-Event Prep**\n\nKey to the effectiveness of the JumpStart
+  section_copy: "**Six-M of Pre-Event Prep**\n\nKey to the effectiveness of the JumpStart
     experience is the 37hrs of Prep Time that take place before the actual JumpStart.
     Across seven two-hour sessions (plus between-session homework), the Featured Startup’s
     Business/Change Model is systematically dissected, analyzed, and diagnosed. This
-    rigorous analysis in turn produces a high-value Goldilox Problem: which seven
+    rigorous analysis, in turn, produces a high-value Goldilox Problem: which seven
     Experts will then focus upon in order to produce three Actionable Solutions.\n\n**Six-Months
     of Ongoing Support**\n\nPost-JumpStart, the Featured Startup receives twice-monthly
     Support Sessions (2 one-hour sessions) to ensure continued progress in implementing
