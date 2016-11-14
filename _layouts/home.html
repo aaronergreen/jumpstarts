@@ -13,7 +13,7 @@ layout: default
   {% for object in data  %}
     <div id="{{ object.slug }}" class="pv5 cf mt5 bg-near-whiteTK bb">
       <div class="tc pb5">
-        <h1 class="f2 fw9 mb0 dark-red">
+        <h1 class="f2 fw9 mb0 dark-red ttu tracked">
           {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
         </h1>
         {% if object.content %}
