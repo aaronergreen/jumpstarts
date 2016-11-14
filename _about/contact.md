@@ -1,5 +1,5 @@
 ---
-title: CONTACT
+title: Contact
 date: '2016-11-14 14:35:02'
 order: 6
 ---
