@@ -5,8 +5,8 @@ order: 4
 ---
 <ul class="list di ml0 center tc">
  <li>
-   <img src="transfernation logo.png" style="width: 305px; height:56px">
-   <a href="http://transfernation.org/" class="link underline-hover red">Transfernation</a>
+   <src="transfernation logo.png" style="width: 305px; height:56px">
+   <a href="http://transfernation.org/" </a>
  </li>
  <li>
    Wrk
