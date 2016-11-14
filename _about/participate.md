@@ -17,7 +17,7 @@ section:
     stopping you?\n\n[Get the Ball Rolling](mailto:info@socialrocketfactory.com)  \nWe'll
     be in touch within 24hrs.\n\n"
 - section_title: Expert Panelists
-  section_copy: "**Every JumpStart brings together a panel of 7 Experts.**      \nBecause
+  section_copy: "**Every JumpStart brings together a panel of 7 Experts.**  \n      \nBecause
     every social startup is unique, every JumpStart requires a distinct combination
     of expertise and experience. We curate each panel from the competencies below
     — which are yours?  \n\n- **Marketing** (Inbound Marketing, Social Marketing,
