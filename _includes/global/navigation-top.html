@@ -12,8 +12,10 @@
   <div class="db dtc-l v-mid w-100 w-75-l tc tr-l">
     {% for object in data %}
       <a class="link dim dark-gray f6 f5-l dib mr3 mr4-l" href="#{{ object.slug }}" title="Home">
-        {{ object.title }}
+        {{ object.title } {% if nav_white %} color-white{% endif %}
+        {% if nav_button %} class-bg-white class-dark-red br-pill ba ph5 pv3 dib{% endif %}}
       </a>
+
     {% endfor %}
   </div>
 </nav>
