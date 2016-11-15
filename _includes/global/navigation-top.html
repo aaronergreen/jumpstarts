@@ -1,4 +1,4 @@
-{% assign data = site.about | sort: 'order' %}
+{% assign data = site.data.navigation-links  %}
 
 <a id="skip-navigation" class="clip z-9999 bg-dark-blue white pa3 dib link" href="#content">Skip Navigation</a>
 <nav class="db dt-l w-100 fixed bg-white border-box pa3 ph5-l bb b--light-gray">
@@ -11,7 +11,7 @@
   </a>
   <div class="db dtc-l v-mid w-100 w-75-l tc tr-l">
     {% for object in data %}
-      <a class="link dim dark-gray f6 f5-l dib mr3 mr4-l" href="#{{ object.slug }}" title="Home">
+      <a class="link bg-white dark-red br-pill ba ph3 pv2 dib mr4" href="{{ object.url }}" title="Home">
         {{ object.title }}
       </a>
 

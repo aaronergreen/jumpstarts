@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include global/hero.html %}
-<div id="content" class="cf pa3 pa4-m pa5-l mw9 dark-gray bb">
+<div id="content" class="cf center pa3 pa4-m pa5-l mw9 dark-gray bb">
 
   <div class="center f3 pb3 tc">
     {{ page.content | markdownify }}
@@ -11,13 +11,13 @@ layout: default
 
   {% assign data = site.about | sort: 'order' %}
   {% for object in data  %}
-    <div id="{{ object.slug }}" class="pv5 cf mt5 bg-near-whiteTK">
+    <div id="{{ object.slug }}" class="{% if forloop.index == 1  %}pb5 {% else  %}pv5 {% endif %}bb b--black-10 cf">
       <div class="tc pb5">
-        <h1 class="f2 fw9 mb0 dark-red ttu tracked">
+        <h1 class="f2 fw9 mb0 dark-red ttu">
           {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
         </h1>
         {% if object.content %}
-          <div class="f4 center measure link">
+          <div class="f4 center tl measure link">
             {{ object.content | markdownify }}
           </div>
         {% endif %}
