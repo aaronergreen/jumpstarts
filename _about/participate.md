@@ -14,7 +14,7 @@ section:
     Who is your Early Adopter** — and how many of them are paying you now?\n\n**(3)
     How fast are you currently growing** — measured how?\n\n**(4) How does your venture
     reconcile Purpose and Profit?**\n\n**(5) What’s keeping you up at night** — what’s
-    stopping you?\n\n[Get the Ball Rolling](mailto:info@socialrocketfactory.com)  \n"
+    stopping you?\n\n \n"
 - section_title: Expert Panelists
   section_copy: "**Every JumpStart brings together a panel of 7 Experts.**  \n      \nBecause
     every social startup is unique, every JumpStart requires a distinct combination
@@ -32,8 +32,7 @@ section:
     Database Developer).  \n- **Legal** (IP, Incorporation Strategies).  \n- **Financial**
     (CFO, CPA, Tax Strategies).  \n- **Operations** (COO, Program Managers, Systems
     Designers, IT/IS).  \n- **Sales** (Sales Operations, Customer Service, Customer
-    Experience).  \n- **HR** (Talent Acquisition/Development, Start-Up Staff Scaling/Structure).\n\n[Get
-    on a Panel](mailto:info@socialrocketfactory.com)  \n"
+    Experience).  \n- **HR** (Talent Acquisition/Development, Start-Up Staff Scaling/Structure).\n\n \n"
 ---
 Qualified Founders + Experts are invited to apply.
 
