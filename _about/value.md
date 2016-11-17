@@ -15,3 +15,4 @@ section:
 
     But the greater payoff is the contribution made to a larger shared understanding within a growing network of Experts and Founders of how to build social startups that are uncommonly effective engines of change.
 ---
+JumpStarts provide <u>unique value</u> to both Founders + Experts.
