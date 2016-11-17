@@ -19,7 +19,7 @@ JumpStarts have <u>already helped</u> these social ventures:
    <img src="/uploads/pathfinder-logo.png"/>
    </a>
  </li>
- <li class="fl mr2 db mh3">
+ <li class="fl mr2 db mh1">
    <a href="http://www.mycounterpane.com/" target="_blank">
     <img src="/uploads/mcp-logo-4.jpg"/>
     </a>
