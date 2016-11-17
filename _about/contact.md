@@ -14,5 +14,5 @@ order: 6
 
 
 <div class="tc">
-<a href="mailto:info@socialrocketfactory.com"  target="_blank" class="link bg-white dark-red br-pill ba ph3 pv2 dib mr4">Get on a Panel!</a>
+<a href="https://aaron327.typeform.com/to/Q9oQq3"  target="_blank" class="link bg-white dark-red br-pill ba ph3 pv2 dib mr4">Get on a Panel!</a>
 </div>
