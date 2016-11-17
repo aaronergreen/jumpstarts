@@ -11,8 +11,8 @@ section:
     <u>discrete, executable steps</u>."
 - section_title: Value for Experts
   section_copy: |-
-    JumpStarts bring together individual experts with their like-minded colleagues in order to collaboratively solve practical problems for social startups.
+    JumpStarts bring together <u>groups of subject-matter experts</u> in order to collaboratively solve <u>practical problems</u> for specific social startups.
 
-    But the greater payoff is the contribution made to a larger shared understanding within a growing network of Experts and Founders of how to build social startups that are uncommonly effective engines of change.
+    But the greater payoff is the contribution made to a larger shared understanding about <u>how to build social startups</u> which become uncommonly effective engines of change.
 ---
 JumpStarts provide <u>unique value</u> to both Founders + Experts.
