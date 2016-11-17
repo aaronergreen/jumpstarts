@@ -3,7 +3,7 @@ title: Alumni
 date: '2016-11-14 14:35:02'
 order: 4
 ---
-JumpStarts have <a>already helped</a> these social ventures:  
+JumpStarts have already helped these social ventures:  
 <div class="mt4">
 <ul class="list di ml0 mt4 center tc">
  <li class="fl mr2 db mh3">
