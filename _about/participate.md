@@ -32,8 +32,9 @@ section:
     Database Developer).  \n- **Legal** (IP, Incorporation Strategies).  \n- **Financial**
     (CFO, CPA, Tax Strategies).  \n- **Operations** (COO, Program Managers, Systems
     Designers, IT/IS).  \n- **Sales** (Sales Operations, Customer Service, Customer
-    Experience).  \n- **HR** (Talent Acquisition/Development, Start-Up Staff Scaling/Structure).\n\n \n"
+    Experience).  \n- **HR** (Talent Acquisition/Development, Start-Up Staff Scaling/Structure).\n\n
+    \n"
 ---
-Qualified Founders + Experts are invited to apply.
+We invite all qualified Founders + Experts to apply.
 
-We have a rapidly growing waiting list of both Featured Startups and Expert Panelists — so please don't delay :)
+However, our Waiting List is <u>growing rapidly</u> —  so don't delay :)
