@@ -8,7 +8,7 @@ JumpStarts have <u>already helped</u> these social ventures:
 
 
 <div class="mt4">
-<ul class="list di ml0 mt4 center tc">
+<ul class="list di mt4 center tc">
  <li class="fl mr2 db mh3">
    <a href="http://transfernation.org/" target="_blank">
    <img src="/uploads/transfernation-logo-3.png"/>
