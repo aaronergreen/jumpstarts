@@ -3,11 +3,11 @@ title: Process
 date: '2016-11-11 00:00:00'
 order: 3
 section:
-- section_title: 
+- section_title:
   section_copy: "![Process](/uploads/JS-100hrs-Of-Value-VERTICAL.jpg)"
 - section_title: ''
   section_copy: "**37-hrs of Pre-Event Prep**\n\nKey to the effectiveness of the JumpStart
-    experience is the 37hrs of Prep prior to the event.  \n\nAcross seven two-hour
+    experience is the <u>37hrs of Prep</u> prior to the event.  \n\nAcross seven two-hour
     sessions (plus between-session homework), the Featured Startup’s Business/Change
     Model is systematically dissected, analyzed, and diagnosed.  \n\nThe result is
     a high-value Goldilox Problem: from which 7 Experts will then produce three Actionable
