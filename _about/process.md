@@ -12,7 +12,7 @@ section:
     Business/Change Model is systematically dissected, analyzed, and diagnosed.  \n\nThe
     result is a high-value Goldilox Problem: from which 7 Experts will then produce
     <u>3 Actionable Solutions</u>.\n\n**Six-Months of Ongoing Support**\n\nPost-event,
-    the Featured Startup <u>receives twice-monthly Support Sessions</u> (hr per session)
+    the Featured Startup <u>receives twice-monthly Support Sessions</u> (1hr per session)
     to ensure <u>continued progress</u> in implementing the 3 Actionable Solutions.\n\n**Outcomes
     Reporting Event**\n\nSix-months later, the Featured Startup <u>returns</u> to
     the Expert Panel for an Outcomes Reporting Event, where the tangible results of
