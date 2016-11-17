@@ -18,7 +18,7 @@ JumpStarts have <u>already helped</u> these social ventures:
  </li>
  <li class="fl mr2 db mh3">
    <a href="http://www.mycounterpane.com/" target="_blank">
-    <img src="/uploads/mcp-logo-3.jpg"/>
+    <img src="/uploads/mcp-logo-4.jpg"/>
     </a>
  </li>
 </ul>
