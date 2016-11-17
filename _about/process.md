@@ -22,3 +22,4 @@ section:
     that describes:\n\n- What Worked?\n- What Didn't?\n- What Was Learned?\n- Recommendations
     for Future Applications. "
 ---
+JumpStarts deliver **100-HOURS of Support across 8-MONTHS** to promising Social Ventures striving to demonstrate marketplace traction.
