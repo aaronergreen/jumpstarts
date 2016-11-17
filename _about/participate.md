@@ -18,22 +18,12 @@ section:
 - section_title: Expert Panelists
   section_copy: "**Every JumpStart brings together a panel of 7 Experts.**  \n      \nBecause
     every social startup is unique, every JumpStart requires a distinct combination
-    of expertise and experience. We curate each panel from the competencies below
-    — which are yours?  \n\n- **Marketing** (Inbound Marketing, Social Marketing,
-    Content Marketing).    \n- **Content** (Content Development, Content Management,
-    Content Marketing).    \n- **Storytelling** (Text, Video, Journalism).   \n- **Community
-    Building** (Membership, Volunteers, Advocacy).   \n- **CSR** (Corporate Volunteer
-    Programs, In-Kind Programs, Corporate Foundations).  \n- **Volunteer Experience**
-    (Corporate, Institutional, Online Volunteer Platforms).  \n- **Advocacy** (Lobbyists,
-    Political Strategists, Coalition Builders).  \n- **Funders** (Impact Investors,
-    Foundations, Philanthropic Advisors, Gov.).  \n- **Data** (Data Analytics, Data
-    Visualization, Performance/Impact Measurement).  \n- **Design** (UI/UX, Product
-    Design, Graphic Design, Human Factors).  \n- **Programming** (Software Developer,
-    Database Developer).  \n- **Legal** (IP, Incorporation Strategies).  \n- **Financial**
-    (CFO, CPA, Tax Strategies).  \n- **Operations** (COO, Program Managers, Systems
-    Designers, IT/IS).  \n- **Sales** (Sales Operations, Customer Service, Customer
-    Experience).  \n- **HR** (Talent Acquisition/Development, Start-Up Staff Scaling/Structure).\n\n
-    \n"
+    of <u>expertise</u> and <u>experience</u>.  \n\nWe curate each panel from the
+    competencies below — which are <u>yours</u>?  \n\n- **Marketing**    \n- **Content**
+    \  \n- **Storytelling** \n- **Community Building**\n- **CSR** \n- **Volunteer
+    Experience** \n- **Advocacy** \n- **Funders** \n- **Data**\n- **Design**   \n-
+    **Programming**\n- **Legal**   \n- **Financial**\n- **Operations** \n- **Sales**
+    \  \n- **HR**\n\n \n"
 ---
 We invite all qualified Founders + Experts to apply.
 
