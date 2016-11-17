@@ -14,7 +14,7 @@ JumpStarts have <u>already helped</u> these social ventures:
    <img src="/uploads/transfernation-logo-3.png"/>
    </a>
  </li>
- <li class="fl mr2 db mh3">
+ <li class="fl mr2 db mh4">
    <a href="https://www.pathfinder.vet/" target="_blank">
    <img src="/uploads/pathfinder-logo.png"/>
    </a>
