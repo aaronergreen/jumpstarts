@@ -14,8 +14,6 @@ section:
     do we solve or accomplish ___________?”  \n- **Choosing Between Alternatives**:
     \ \nShould we pursue either Option A or Option B?\n"
 ---
-<<<<<<< Updated upstream
 JumpStarts are <u>monthly problem-solving sessions</u> that employ guided group discussion to solve a highly-focused <u>strategic/operational business challenge.</u>    
 
 Through extensive pre-event preparation, JumpStarts define a **Goldilox Problem** that must be <u>practically resolved</u> before the Featured Startup can progress to its next stage of sustainable growth.
-=======
