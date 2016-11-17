@@ -8,7 +8,7 @@ JumpStarts have <u>already helped</u> these social ventures:
 <ul class="list di ml0 mt4 center tc">
  <li class="fl mr2 db mh3">
    <a href="http://transfernation.org/" target="_blank">
-   <img src="/uploads/transfernation-logo.png"/>
+   <img src="/uploads/transfernation-logo-3.png"/>
    </a>
  </li>
  <li class="fl mr2 db mh3">
@@ -18,7 +18,7 @@ JumpStarts have <u>already helped</u> these social ventures:
  </li>
  <li class="fl mr2 db mh3">
    <a href="http://www.mycounterpane.com/" target="_blank">
-    <img src="/uploads/rsz-mcp-logo-2-resize.jpg"/>
+    <img src="/uploads/mcp-logo-3.jpg"/>
     </a>
  </li>
 </ul>
