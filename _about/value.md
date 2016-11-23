@@ -1,7 +1,7 @@
 ---
 title: Value
 date: '2016-11-11 00:00:00'
-order: 2
+order: 3
 section:
 - section_title: Value for Founders
   section_copy: "JumpStarts help the founders of promising Social Startups <u>diagnose</u>
