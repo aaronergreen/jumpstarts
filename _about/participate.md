@@ -13,12 +13,8 @@ section:
 - section_title: Expert Panelists
   section_copy: "**Every JumpStart brings together a panel of 7 Experts.**  \n      \nBecause
     every social startup is unique, every JumpStart requires a distinct combination
-    of <u>expertise</u> and <u>experience</u>.  \n\nWe curate each panel from the
-    competencies below — which are <u>yours</u>?  \n\n- **Marketing**    \n- **Content**
-    \  \n- **Storytelling** \n- **Community Building**\n- **CSR** \n- **Volunteer
-    Experience** \n- **Advocacy** \n- **Funders** \n- **Data**\n- **Design**   \n-
-    **Programming**\n- **Legal**   \n- **Financial**\n- **Operations** \n- **Sales**
-    \  \n- **HR**\n\n \n"
+    of <u>expertise</u> and <u>experience</u>.  \n\nWe curate each panel from a wide
+    variety of competencies — click below to let us know <u>yours</u>!"
 ---
 We invite all qualified Founders + Experts to apply.
 
