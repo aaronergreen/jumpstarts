@@ -12,5 +12,6 @@ JumpStarts deliver **100-HOURS of Support across 8-MONTHS** to promising Social 
 **•** Six-Months of Ongoing Support.
 
 **•** Expert Session #2 ---> Outcomes + Traction + Fundability.  
+  
 
 <img src="/uploads/JS-Webpage-100hrs.jpg"/>
