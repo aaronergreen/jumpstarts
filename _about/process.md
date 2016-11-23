@@ -19,4 +19,12 @@ section:
     a <u>Case Study</u> describing:\n\n- What Worked?\n- What Didn't?\n- What Was
     Learned?\n- General recommendations for Social Startup design. "
 ---
-JumpStarts deliver **100-HOURS of Support across 8-MONTHS** to promising Social Ventures striving to demonstrate marketplace traction.
+JumpStarts deliver **100-HOURS of Support across 8-MONTHS** to promising Social Ventures striving to demonstrate marketplace traction:
+
+• 40-hrs of Diagnostic Prep.
+
+• <span style="letter-spacing: 0.01em;">Expert Session #1 ---> 3 Actionable Solutions.</span>
+
+• Six-Months of Ongoing Support.
+
+• Expert Session #2 ---> Outcomes + Traction + Fundability.
