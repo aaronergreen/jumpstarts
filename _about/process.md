@@ -1,18 +1,10 @@
 ---
 title: Process
 date: '2016-11-11 00:00:00'
-order: 3
+order: 4
 section:
-- section_title: 
-  section_copy: "![Process](/uploads/JS-100hrs-Of-Value-VERTICAL.jpg)"
-- section_title: ''
-  section_copy: |-
-    **•** 40-hrs of Diagnostic Prep.
+- section_title:
+  section_copy: "![Process](/uploads/JS-100hrs-Of-Value-2.jpg)"
 
-    **•** Expert Session #1 ---> 3 Actionable Solutions.
-
-    **•** Six-Months of Ongoing Support.
-
-    **•** Expert Session #2 ---> Outcomes + Traction + Fundability.
 ---
 JumpStarts deliver **100-HOURS of Support across 8-MONTHS** to promising Social Ventures striving to demonstrate marketplace traction.
