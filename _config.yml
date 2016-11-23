@@ -1,7 +1,7 @@
 ## jekyll-seo-tag
 # These basic values are used with the Jekyll SEO tag https://github.com/jekyll/jekyll-seo-tag#usage
 # but you can also use them anywhere in your site, like this: {{ site.title }} or {{ site.twitter.username }}
-title: "Looking for Founders <br> with Interesting + Urgent problems to solve."
+title: "Looking for Founders <br> with Interesting + Urgent </u> problems to solve."
 description: ""
 url: "https://www.socialrocketfactory.com" # the base hostname & protocol for your site
 author: []
