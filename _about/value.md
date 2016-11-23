@@ -1,5 +1,5 @@
 ---
-title: NOT BRAINSTORMING
+title: This is <u>not</u> brainstorming
 date: '2016-11-11 00:00:00'
 order: 3
 section:
