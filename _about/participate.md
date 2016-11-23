@@ -1,7 +1,7 @@
 ---
 title: Participate
 date: '2016-11-11 00:00:00'
-order: 5
+order: 
 section:
 - section_title: Founders
   section_copy: |-
