@@ -1,5 +1,5 @@
 ---
-title: Process
+title: Our Process
 date: '2016-11-11 00:00:00'
 order: 4
 ---
