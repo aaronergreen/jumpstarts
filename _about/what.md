@@ -1,7 +1,7 @@
 ---
 title: What this <u>is</u>
 date: '2016-11-11 00:00:00'
-order: 2
+order: 3
 section:
 ---
 JumpStarts are <u>monthly problem-solving sessions</u> that employ guided group discussion to solve a highly-focused <u>strategic/operational business challenge.</u>    
