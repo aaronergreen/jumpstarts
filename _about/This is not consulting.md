@@ -6,7 +6,7 @@ section:
 - section_title:
   section_copy:
 - section_title:
-  section_copy: 
+  section_copy:
 ---
 We don't want your Money or your Equity — so instead we can demand <u>decisiveness</u> and <u>speed</u> from you.
 
