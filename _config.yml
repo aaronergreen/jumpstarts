@@ -2,7 +2,7 @@
 # These basic values are used with the Jekyll SEO tag https://github.com/jekyll/jekyll-seo-tag#usage
 # but you can also use them anywhere in your site, like this: {{ site.title }} or {{ site.twitter.username }}
 title: "Looking for 20 Social Startups <br> with Interesting + Urgent problems to solve."
-description: "During 2017, the founders of only 20 promising organizations will be selected for gamechanging JumpStarts. <br> <br> **And then we're done.**"
+description: "During 2017, the founders of only 20 promising organizations will be selected for gamechanging JumpStarts. <br> <br> <b>And then we're done.</b>"
 url: "https://www.socialrocketfactory.com" # the base hostname & protocol for your site
 author: []
 twitter:
