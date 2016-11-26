@@ -5,7 +5,7 @@ nav_button: true
 nav_white: true
 order: 5
 ---
-**Featured Startups must apply**: JumpStarts strip away self-delusion and force an objective assessment of your social venture’s current status.
+**Featured Startups must apply**: JumpStarts strip away self-delusion and force an <u>objective</u> assessment of your social venture’s current status.
 
 **Unfortunately, in our experience**, most founders don’t really want to read a Truth Memo about their venture:
 
