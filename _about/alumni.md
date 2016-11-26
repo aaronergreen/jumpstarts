@@ -7,7 +7,7 @@ JumpStarts have already <u>significantly helped</u> these social ventures:
 
 <div class="mt4">
 
-a href="http://transfernation.org/" target="_blank" <img src="/uploads/transfernation-logo-3.png"> /a>
+<a href="http://transfernation.org/" target="_blank" <img src="/uploads/transfernation-logo-3.png"> /a>
 
 <img src="/uploads/pathfinder-logo.png">  
 
