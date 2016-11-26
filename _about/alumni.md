@@ -9,8 +9,8 @@ JumpStarts have already <u>significantly helped</u> these social ventures:
 
 <a href="http://transfernation.org/" target="_blank"> <img src="/uploads/transfernation-logo-3.png"> </a>
 
-<img src="/uploads/pathfinder-logo.png">  
+<a href="http://transfernation.org/" target="_blank"> <img src="/uploads/pathfinder-logo.png"> </a>
 
-<img src="/uploads/mcp-logo-4.jpg">
+<a href="http://transfernation.org/" target="_blank"> <img src="/uploads/mcp-logo-4.jpg"> </a>
 
 </div>
