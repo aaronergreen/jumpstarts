@@ -1,8 +1,8 @@
 ---
 title: This is <u>not</u> brainstorming
 date: '2016-11-11 00:00:00'
-order: 3
-section: 
+order: 2
+section:
 ---
 Unlike brainstorming sessions, JumpStarts help the founders of promising Social Startups <u>diagnose and address</u> what is broken, missing, or under-developed in their Business/Change Models.
 
