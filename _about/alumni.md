@@ -5,7 +5,7 @@ order: 4
 ---
 JumpStarts have already <u>significantly helped</u> these social ventures:
 
-<div class="mt4" fl>
+<div class="mt4">
 
 <img src="/uploads/transfernation-logo-3.png">  
 
