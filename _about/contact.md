@@ -16,5 +16,5 @@ order: 5
 **Click the button below** to see if we’re on the same page. Then we’ll follow-up within 24hrs to schedule a face-to-face session that fully explains the <u>value</u> and the <u>commitment</u> required by you + by us.
 
 <div class="tc">
-<a href="https://aaron327.typeform.com/to/emQXTy"  target="_blank" class="link bg-white dark-red br-pill ba ph3 pv2 dib mr4">Become a Featured Startup</a>
+<a href="https://aaron327.typeform.com/to/emQXTy"  target="_blank" class="link bg-white dark-red br-pill ba ph3 pv2 dib mr4">Become 1-of-20 in 2017</a>
 </div>
