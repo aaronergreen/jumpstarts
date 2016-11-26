@@ -14,7 +14,3 @@ order: 5
 *   and <u>don’t</u> sit-on-the-fence about applying: once we get to 20 Featured Startups in 2017 we are done — and we <u>won’t</u> offer JumpStarts again.
 
 **Click the button below** to see if we’re on the same page. Then we’ll follow-up within 24hrs to schedule a face-to-face session that fully explains the value and the <u>commitment</u> required by you + by us.
-
-<div class="tc">
-<a href="https://aaron327.typeform.com/to/emQXTy"  target="_blank" class="link bg-white dark-red br-pill ba ph3 pv2 dib mr4">Become a Featured Startup</a>
-</div>
