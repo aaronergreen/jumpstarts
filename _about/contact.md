@@ -6,7 +6,7 @@ order: 5
 ---
 **Featured Startups must apply**: because we ask <u>great questions</u> that will make you objectively assess your venture, the application process <u>in-and-of-itself</u> is a highly-valuable exercise for founders.  
 
-**Unfortunately, in our experience**, most founders don’t really want to read a Truth Memo about their venture:</span>
+**Unfortunately, in our experience**, most founders don’t really want to read a Truth Memo about their venture:
 
 *   so please be honest with yourself (and with us) because this <u>isn’t</u> a feel-good safe-space for semi-committed hobbyists or also-ran's.  
 
