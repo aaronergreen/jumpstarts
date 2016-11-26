@@ -1,45 +1,25 @@
 ---
 title: Our Alumni
-date: '2016-11-14 14:35:02'
+date: '2016-11-14 00:00:00'
 order: 4
 ---
-JumpStarts have <u>already helped</u> these social ventures:  
+JumpStarts have already <u><span style="letter-spacing: 0.01em;">significantly</span><span style="letter-spacing: 0.01em;"> helped</span></u> <span style="letter-spacing: 0.01em;">these social ventures:</span>
 
 <<<<<<< HEAD
 
-
 <div class="mt4">
-<ul class="list db ml0 mt4 center tc">
- <li class="fl mr2 db mh3">
-   <a href="http://transfernation.org/" target="_blank">
-   <img src="/uploads/transfernation-logo-3.png"/>
-   </a>
- </li>
- <li class="fl mr2 db mh3">
-   <a href="https://www.pathfinder.vet/" target="_blank">
-   <img src="/uploads/pathfinder-logo.png"/>
-   </a>
- </li>
- <li class="fl mr2 db mh3">
-   <a href="http://www.mycounterpane.com/" target="_blank">
-    <img src="/uploads/mcp-logo-4.jpg"/>
-    </a>
- </li>
-</ul>
+
+*   [<img src="/uploads/transfernation-logo-3.png">](http://transfernation.org/){:target="_blank"} 
+*   [<img src="/uploads/pathfinder-logo.png">](https://www.pathfinder.vet/){:target="_blank"} 
+*   [<img src="/uploads/mcp-logo-4.jpg">](http://www.mycounterpane.com/){:target="_blank"} 
+
 </div>
+
 =======
-<ul class="list di ml0 center tc">
-  <li>
-    <a href="http://transfernation.org/" class="link underline-hover red">Transfernation</a>
-  </li>
-  <li>
-    Wrk
-  </li>
-  <li>
-    <a href="https://www.pathfinder.vet/" class="link underline-hover red">Pathfinder</a>
-  </li>
-  <li>
-    <a href="http://www.mycounterpane.com/" class="link underline-hover red">MyCounterpane</a>
-  </li>
-</ul>
+
+*   [Transfernation](http://transfernation.org/){:.link .underline-hover .red}
+*   Wrk
+*   [Pathfinder](https://www.pathfinder.vet/){:.link .underline-hover .red}
+*   [MyCounterpane](http://www.mycounterpane.com/){:.link .underline-hover .red}
+
 >>>>>>> sonnetmedia/master
