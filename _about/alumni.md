@@ -10,6 +10,3 @@ order: 4
 *   [<img src="/uploads/mcp-logo-4.jpg">](http://www.mycounterpane.com/){:target="_blank"}
 
 </div>
-
---
-JumpStarts have already <u>significantly helped</u> these social ventures:
