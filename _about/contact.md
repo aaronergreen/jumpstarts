@@ -15,5 +15,8 @@ order: 5
 
 **Click the button below** to see if we’re on the same page. Then we’ll follow-up within 24hrs to schedule a face-to-face session that fully explains the value and the <u>commitment</u> required by you + by us.  
 
-[Become a Featured Startup](https://aaron327.typeform.com/to/emQXTy){:.link .bg-white .dark-red .br-pill .ba .ph3 .pv2 .dib .mr4 target="_blank" style="background-color: rgb(255, 255, 255); letter-spacing: 0.01em;"}
+<div class="tc">
+<a href="https://aaron327.typeform.com/to/emQXTy"  target="_blank" class="link bg-white dark-red br-pill ba ph3 pv2 dib mr4">Become a Featured Startup</a>
+</div>
+
 =======
