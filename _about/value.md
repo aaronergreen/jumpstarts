@@ -8,8 +8,8 @@ Unlike brainstorming sessions, JumpStarts help the founders of promising Social 
 
 **The JumpStart process has three end-goals:**
 
-1.  Producing <u>3 Actionable Solutions</u> for the Featured Social Startup — i.e. three recipes-for-action with <u>discrete, executable steps</u>.
+1.  Producing <u>3 Actionable Solutions</u> for the Featured Social Startup — i.e. three recipes-for-action with discrete, executable steps.
 
 2.  <u>Six-months of support</u> in applying the Actionable Solutions.
 
-3.  Concluding <u>case studies</u> that identify what worked, what <u>didn’t</u>, and what <u>lessons</u> were learned.
+3.  Concluding <u>case studies</u> that identify what worked, what didn’t, and what lessons were learned.
