@@ -9,9 +9,9 @@ order: 5
 
 **Unfortunately, in our experience**, most founders don’t really want to read a Truth Memo about their venture:
 
-*   so please be honest with yourself (and with us) because this <u>isn’t</u> a _feel-good safe-space_ for semi-committed hobbyists or also-ran's.
+*   so please be honest with yourself (and with us) because this <u>isn’t</u> a feel-good safe-space for the semi-committed.
 
-*   and <u>don’t</u> sit-on-the-fence about applying: once we get to 20 Featured Startups in 2017 we are done — and we <u>won’t</u> offer JumpStarts again.
+*   once we get to 20 Featured Startups in 2017 we are done — and we <u>won’t</u> offer JumpStarts again.
 
 **Click the button below** to see if we’re on the same page. Then we’ll follow-up within 24hrs to schedule a <u>face-to-face session</u> that fully explains the value and the commitment required from you + from us.
 
