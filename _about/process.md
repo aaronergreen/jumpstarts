@@ -3,7 +3,7 @@ title: Our Process
 date: '2016-11-11 00:00:00'
 order: 3
 ---
-JumpStarts deliver **100-HOURS of Support across 8-MONTHS** to promising Social Ventures striving to demonstrate marketplace traction:
+JumpStarts deliver **100-HOURS of Support** across 8-MONTHS:
 
 **•** 40-hrs of Diagnostic Prep.
 
