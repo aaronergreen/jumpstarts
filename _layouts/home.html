@@ -11,7 +11,7 @@ layout: default
 
   {% assign data = site.about | sort: 'order' %}
   {% for object in data  %}
-    <div id="{{ object.slug }}" class="{% if forloop.index == 1  %}pb3 {% else  %}pv3 {% endif %}bb b--black-10 cf">
+    <div id="{{ object.slug }}" class="{% if forloop.index == 1  %}pb5 {% else  %}pv4 {% endif %}bb b--black-10 cf">
       <div class="tc pb4">
         <h1 class="f2 fw9 mb0 dark-red ttu">
           {{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
