@@ -13,7 +13,7 @@ order: 5
 
 *   once we get to 20 Featured Startups in 2017 we are done — and we <u>won’t</u> offer JumpStarts again.
 
-**Click the button**. Fill out the form. We'll follow-up within 24hrs.
+**First, let's figure out if we're all on the same page:** <br>Click the button. Fill out the form. We'll follow-up within 24hrs.
 
 <div class="tc">
 <a href="https://aaron327.typeform.com/to/emQXTy"  target="_blank" class="link bg-white dark-red br-pill ba ph3 pv2 dib mr4">Become 1-of-20 Featured Startups</a>
