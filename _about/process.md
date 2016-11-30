@@ -3,7 +3,7 @@ title: Our Process
 date: '2016-11-11 00:00:00'
 order: 3
 ---
-JumpStarts deliver **100-HOURS of Support** across 8-MONTHS:
+JumpStarts deliver **100-Hours of Support** across 8-months:
 
 **•** 40-hrs of Diagnostic Prep.
 
