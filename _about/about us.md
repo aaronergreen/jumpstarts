@@ -17,7 +17,7 @@ section:
     </h1>
     <h3>Louis</h3>
       <p class="f6 lh-copy measure-wide">
-    
+
       </p>
   </div>
 
@@ -32,7 +32,9 @@ section:
     </h1>
     <h3>Aaron</h3>
       <p class="f6 lh-copy measure-wide" >
-    Aaron served 10 years in the U.S. Marine Corps, where during his first deployment to Iraq learned Arabic while watching music videos with Iraqi soldiers. Later he went into the nonprofit sector but after seeing repeated problems with their business models, he started to look at ways social ventures could impact the world in ways nonprofits can’t. He has researched and written about the power of exponential growth in technology and is passionate about helping social entrepreneurs harness it to create impact on a global level.
+      Aaron served 10-years in the U.S. Marine Corps, where he learned Arabic while watching music videos with Iraqi soldiers.<br><br> 
+      Later, after 5-years in the non-profit sector, Aaron was struck by how consistently he encountered scale-related organizational problems that could consistently be traced back to incomplete and underdeveloped non-profit business models — leading him to conclude that genuinely stable solutions can only be produced by for-profit social ventures.<br><br>
+      He has researched and written about technology’s power to drive exponential growth, and is passionate about helping social entrepreneurs harness technological insights and advances in order to create sustainable impact on a global scale.
       </p>
   </div>
   </div>
