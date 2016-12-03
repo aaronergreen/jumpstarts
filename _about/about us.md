@@ -19,9 +19,7 @@ section:
       <p class="f6 lh-copy measure-wide">
       Louis believes that social venture under-performance can almost always be traced back to one-of-two causes: (1) an insufficiently developed Problem/Solution construct and/or (2) an organizational Business/Change Model that is broken, incomplete, or under-developed.<br><br>
 
-      Louis has also raised tens-of-millions for education and scientific research — and has a for-profit background in storytelling, marketing, branding, and systems development. His conviction in the power of data-driven insights and scientific methodologies to catalyze change began at the University of Chicago where he studied mathematics and cognitive science.<br><br>
-
-      His life-long interest in public/private cross-sector partnerships was honed while completing his Masters at NYU's Heyman Center for Philanthropy.
+      Louis has also raised tens-of-millions for education and scientific research — and developed his conviction in the power of scientific methodologies and  data-driven insights to catalyze change at the University of Chicago where he studied mathematics and cognitive science.<br><br>
       </p>
   </div>
 
