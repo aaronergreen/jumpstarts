@@ -8,7 +8,7 @@ section:
 
   <div class="fl w-100 w-50-ns bg-white tc">
 
-  <div class="pa3 pa1-ns">
+  <div class="pa3 pa1-ns" class="tl">
     <h1>
     <a href="https://www.linkedin.com/in/louissongster" target="_blank" >
     <img src="/uploads/louis-test.jpg" height="150px" class="br-100">
