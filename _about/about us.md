@@ -19,7 +19,7 @@ section:
       <p class="f6 lh-copy measure-wide">
       Louis believes that social venture under-performance can almost always be traced back to one-of-two causes: (1) an insufficiently developed Problem/Solution construct and/or (2) an organizational Business/Change Model that is broken, incomplete, or under-developed.<br><br>
 
-      Louis has also raised tens-of-millions for education and scientific research — and has a for-profit background in storytelling, marketing, branding, and systems development. His conviction in the power of data-driven insights and scientific methodologies to catalyze change began at the University of Chicago where he studied mathematics and cognitive science.<br><br> 
+      Louis has also raised tens-of-millions for education and scientific research — and has a for-profit background in storytelling, marketing, branding, and systems development. His conviction in the power of data-driven insights and scientific methodologies to catalyze change began at the University of Chicago where he studied mathematics and cognitive science.<br><br>
 
       His life-long interest in public/private cross-sector partnerships was honed while completing his Masters at NYU's Heyman Center for Philanthropy.
       </p>
@@ -37,8 +37,8 @@ section:
     <h3>Aaron</h3>
       <p class="f6 lh-copy measure-wide" >
       Aaron served 10-years in the U.S. Marine Corps, where he learned Arabic while watching music videos with Iraqi soldiers.<br><br>
-      Later, after 5-years in the non-profit sector, Aaron was struck by how consistently he encountered scale-related organizational problems that could consistently be traced back to incomplete and underdeveloped non-profit business models — leading him to conclude that genuinely stable solutions can only be produced by for-profit social ventures.<br><br>
-      He has researched and written about technology’s power to drive exponential growth, and is passionate about helping social entrepreneurs harness technological insights and advances in order to create sustainable impact on a global scale.
+      Later, after 5-years in the non-profit sector, Aaron was struck by how consistently he encountered scale-related organizational problems that could consistently be traced to incomplete and underdeveloped non-profit business models — leading him to conclude that genuinely stable solutions can only be produced by for-profit social ventures.<br><br>
+      He has researched and written about technology’s exponential-growth potential, and is passionate about helping social entrepreneurs to leverage Exponential Technologies — like artificial intelligence (AI), augmented and virtual reality (AR, VR), and data science — in order to create sustainable impact on a global scale.
       </p>
   </div>
   </div>
