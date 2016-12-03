@@ -8,14 +8,14 @@ section:
 
   <div class="fl w-100 w-50-ns bg-white tl">
 
-  <div class="pa3 pa1-ns">
+  <div class="pa3 pa4-ns">
     <h1>
     <a href="https://www.linkedin.com/in/louissongster" target="_blank" >
     <img src="/uploads/louis-test.jpg" height="150px" class="br-100">
 
     </a>
     </h1>
-    <h3>                 Louis</h3>
+    <h3>Louis</h3>
       <p class="f6 lh-copy measure-wide">
       Louis believes that social venture under-performance can almost always be traced back to one-of-two causes: (1) an insufficiently developed Problem/Solution construct and/or (2) an organizational Business/Change Model that is broken, incomplete, or under-developed.<br><br>
 
@@ -24,9 +24,9 @@ section:
   </div>
 
   </div>
-  <div class="fl w-100 w-50-ns bg-white tl">
+  <div class="fl w-90 w-50-ns bg-white tl">
 
-  <div class="pa3 pa1-ns">
+  <div class="pa3 pa4-ns">
     <h1>
     <a href="https://www.linkedin.com/in/aaronergreen" target="_blank">
     <img src="/uploads/aaroningrid-crop.jpeg" height="150px" class="br-100">
