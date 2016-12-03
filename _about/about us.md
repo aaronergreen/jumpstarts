@@ -36,7 +36,7 @@ section:
     </h1>
     <h3>Aaron</h3>
       <p class="f6 lh-copy measure-wide" >
-      While working in the non-profit sector, Aaron was struck by how consistently he encountered scale-related organizational problems that could be traced back to incomplete and underdeveloped non-profit business models — leading him to conclude that genuinely stable solutions can only be produced by for-profit social ventures.<br><br>
+      Aaron is struck by how consistently he encountered scale-related organizational problems that could be traced back to incomplete and underdeveloped business models — leading him to conclude that genuinely stable solutions can only be produced by for-profit social ventures.<br><br>
       He has researched and written about technology’s exponential-growth potential, and is passionate about helping social entrepreneurs to leverage Exponential Technologies — like artificial intelligence, virtual reality, and data science — in order to create sustainable impact on a global scale.
       </p>
   </div>
