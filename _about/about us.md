@@ -36,8 +36,7 @@ section:
     </h1>
     <h3>Aaron</h3>
       <p class="f6 lh-copy measure-wide" >
-      Aaron served 10-years in the U.S. Marine Corps, where he learned Arabic while watching music videos with Iraqi soldiers.<br><br>
-      Later, after 5-years in the non-profit sector, Aaron was struck by how consistently he encountered scale-related organizational problems that could consistently be traced to incomplete and underdeveloped non-profit business models — leading him to conclude that genuinely stable solutions can only be produced by for-profit social ventures.<br><br>
+      While working in the non-profit sector, Aaron was struck by how consistently he encountered scale-related organizational problems that could be traced back to incomplete and underdeveloped non-profit business models — leading him to conclude that genuinely stable solutions can only be produced by for-profit social ventures.<br><br>
       He has researched and written about technology’s exponential-growth potential, and is passionate about helping social entrepreneurs to leverage Exponential Technologies — like artificial intelligence (AI), augmented and virtual reality (AR, VR), and data science — in order to create sustainable impact on a global scale.
       </p>
   </div>
