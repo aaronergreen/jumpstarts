@@ -29,7 +29,7 @@ section:
   <div class="pa3 pa4-ns">
     <h1>
     <a href="https://www.linkedin.com/in/aaronergreen" target="_blank">
-    <img src="/uploads/AG-SRF-3.jpg" height="150px" class="br-100">
+    <img src="/uploads/AG-SRF-4.jpg" height="150px" class="br-100">
     </a>
     </h1>
     <h3>Aaron</h3>
