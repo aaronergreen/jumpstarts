@@ -11,7 +11,7 @@ section:
   <div class="pa3 pa4-ns">
     <h1>
     <a href="https://www.linkedin.com/in/louissongster" target="_blank" >
-    <img src="/uploads/LS-SRF-4.jpg" height="150px" class="br-100">
+    <img src="/uploads/LS4SRF-4.jpg" height="150px" class="br-100">
 
     </a>
     </h1>
