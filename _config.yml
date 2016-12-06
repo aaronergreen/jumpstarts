@@ -67,7 +67,7 @@ exclude:
 # http://jekyllrb.com/docs/collections/
 collections:
   about:
-    output: true
+    output: false
     permalink: '/:collection/:path/'
 
 # http://jekyllrb.com/docs/configuration/#front-matter-defaults
