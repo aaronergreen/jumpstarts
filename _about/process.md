@@ -15,4 +15,4 @@ JumpStarts deliver **100-Hours of Support** across 8-months:
 
 
 
-<img src="/uploads/JS-Webpage-100hrs.jpg"/>
+<img src="/uploads/JS-100hrs-3.jpg"/>
